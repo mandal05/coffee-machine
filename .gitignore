@@ -27,3 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### iml and output file ##
+*.iml
+.idea/
+out/
+
